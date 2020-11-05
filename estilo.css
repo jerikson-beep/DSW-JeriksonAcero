@@ -3,16 +3,54 @@
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: #f0b420;
     background-color: #808080;
-    padding: 30px;
+    padding: 20px;
 }
-.menu{
+.men{
 
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: #333333;
     background-color: #f47920;
     padding: 15px;
-    text-align: center;
+    text-align: left;
+    margin: 30px;
 }
+nav{
+    background-color: #808080;
+    width: 1332px;
+    height: 60px;
+    position: relative;
+    
+}
+ul{
+    position: relative;
+    margin: auto;
+    margin-left: 200px;
+}
+nav ul li {
+    list-style-type: none;
+    float: left;
+    padding: 10px;
+    margin: 5px;
+    font-size: 20px;
+    width: 150px;
+    
+}
+.menu2:active{
+    text-decoration: none;color: #f47920;
+    }
+.menu2:hover{
+    text-decoration: none;color: #f47920;
+}
+.menu2:link{
+    text-decoration: none;color: #f47920;
+}
+.menu2:focus{
+    text-decoration: none;color: #f47920;
+}
+.menu2:visited {
+    text-decoration: none;color: #f47920;
+}
+
 .titulo2{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: #f47920;
