@@ -4,19 +4,12 @@
     color: #f0b420;
     background-color: #808080;
     padding: 20px;
-}
-.men{
-
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color: #333333;
-    background-color: #f47920;
-    padding: 15px;
-    text-align: left;
-    margin: 30px;
+    width: 1321px;
+    height: 40px;
 }
 nav{
     background-color: #808080;
-    width: 1332px;
+    width: 1360px;
     height: 60px;
     position: relative;
     
@@ -30,8 +23,8 @@ nav ul li {
     list-style-type: none;
     float: left;
     padding: 10px;
-    margin: 5px;
-    font-size: 20px;
+    margin: 10px;
+    font-size: 25px;
     width: 150px;
     
 }
