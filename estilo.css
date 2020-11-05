@@ -2,14 +2,14 @@
     text-align: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: #f0b420;
-    background-color: #005883;
+    background-color: #808080;
     padding: 30px;
 }
 .menu{
 
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: #333333;
-    background-color: #b3b3b3;
+    background-color: #f47920;
     padding: 15px;
     text-align: center;
 }
@@ -20,10 +20,10 @@
 }
 .parrafo{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color: #333333;
+    color: #b3b3b3;
 }
 .tabla{
-    width: 90%;
+    width: 100%;
     padding: 20px;
 }
 .imagen{
@@ -33,6 +33,22 @@
 }
 h2{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color: #333333;
+    color: #b3b3b3;
     text-align: center;
+}
+.bibliografia{
+    text-align: right;
+    color: #333333;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.parrafo1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #b3b3b3;
+    text-align: center;
+}
+.imagen1{
+    text-align: right;
+}
+body{
+    background-image: url(fonfo.jpg);
 }
