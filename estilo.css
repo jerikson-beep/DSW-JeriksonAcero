@@ -14,7 +14,7 @@ nav{
     position: relative;
     
 }
-ul{
+.ul{
     position: relative;
     margin: auto;
     margin-left: 200px;
@@ -83,3 +83,5 @@ h2{
 body{
     background-image: url(fonfo.jpg);
 }
+
+
