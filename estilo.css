@@ -4,12 +4,12 @@
     color: #f0b420;
     background-color: #808080;
     padding: 20px;
-    width: 1321px;
+    width: 1421px;
     height: 40px;
 }
 nav{
     background-color: #808080;
-    width: 1360px;
+    width: 1460px;
     height: 60px;
     position: relative;
     
@@ -17,7 +17,7 @@ nav{
 .ul{
     position: relative;
     margin: auto;
-    margin-left: 200px;
+    margin-left: 90px;
 }
 nav ul li {
     list-style-type: none;
@@ -25,7 +25,7 @@ nav ul li {
     padding: 10px;
     margin: 10px;
     font-size: 25px;
-    width: 150px;
+    width: 180px;
     
 }
 .menu2:active{
@@ -43,11 +43,26 @@ nav ul li {
 .menu2:visited {
     text-decoration: none;color: #f47920;
 }
-
+.submenu{
+    position: absolute;
+    text-decoration: none;color: #f47920;
+}
+.submenu li a{
+    display: block;
+    padding: 15px;
+}
 .titulo2{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: #f47920;
     text-align: center;
+}
+.titulo3{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #f47920;
+    padding: 20px;
+    width: 1421px;
+    height: 40px;
 }
 .parrafo{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -80,8 +95,15 @@ h2{
 .imagen1{
     text-align: right;
 }
+.sigue{
+    text-align: center;
+}
 body{
     background-image: url(fonfo.jpg);
+}
+iframe{
+    width: 80%;
+    height: 90vh;
 }
 
 
